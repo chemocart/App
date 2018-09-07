@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buisness">
+        <item>Retailer</item>
+        <item>Manufacturer</item>
+    </string-array>
+</resources>

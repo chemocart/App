@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "968630400517",
+    "firebase_url": "https://chemocartsellerapp.firebaseio.com",
+    "project_id": "chemocartsellerapp",
+    "storage_bucket": "chemocartsellerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968630400517:android:69845d618b6b983d",
+        "android_client_info": {
+          "package_name": "com.chemocart.chemocartseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968630400517-64a3hqq0qoba1ojp7uvi5rsknanmqulv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chemocart.chemocartseller",
+            "certificate_hash": "1b663d80f9be89af3904a4932d57e2c45ed126ab"
+          }
+        },
+        {
+          "client_id": "968630400517-k63cn065b60ai3gp8shcqdiblcb76n6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3YnUtCX_OC1AghYmzssCex1w727IxyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968630400517-k63cn065b60ai3gp8shcqdiblcb76n6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
